@@ -23,15 +23,15 @@ void loop() {
     return;
   }
 
-  // 센서 값 전송
-  Serial.print(temperature);
-  Serial.print(",");  // 구분자
-  Serial.print(humidity);
-  Serial.print(",");  // 구분자
+  // 센서 값 전송 (아두이노 2로 전송)
+  Serial.print(temperature);  // 온도
+  Serial.print(",");          // 구분자
+  Serial.print(humidity);     // 습도
+  Serial.print(",");          // 구분자
 
   // 조도 센서 값 읽기
-  int lightLevel = analogRead(lightPin);
-  Serial.println(lightLevel);  // 마지막 데이터 전송 후 줄바꿈
+  int lightLevel = analogRead(lightPin);  // 조도 값 읽기
+  Serial.println(lightLevel);  // 조도 값을 전송 후 줄바꿈
 
   delay(1000);  // 1초마다 센서 값 전송
 }
