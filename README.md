@@ -1,5 +1,9 @@
 # Smart Farm System 🌱
 
+## 순서도
+<img width="221" height="821" alt="smart-farm drawio" src="https://github.com/user-attachments/assets/bc84b96f-4b84-473f-98eb-af5f92693447" />
+
+
 ## 프로젝트 개요
 센서를 기반으로 작물의 **온도, 습도, 조도 환경**을 측정하고  
 기준 범위를 벗어나면 **장치를 자동 제어**하여 최적의 생장 환경을 유지하는 스마트 팜 시스템입니다.
