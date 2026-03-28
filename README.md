@@ -1,7 +1,7 @@
 # Smart Farm System 🌱
 
 ## 순서도
-<img width="221" height="821" alt="smart-farm drawio" src="https://github.com/user-attachments/assets/bc84b96f-4b84-473f-98eb-af5f92693447" />
+<img width="221" height="821" alt="smart-farm drawio (1)" src="https://github.com/user-attachments/assets/62477823-8b29-4465-a361-38a969ddf2e1" />
 
 
 ## 프로젝트 개요
