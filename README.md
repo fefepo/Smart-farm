@@ -1,6 +1,6 @@
 # Smart Farm System 🌱
 
-## 순서도
+## 📊 순서도
 <img width="221" height="821" alt="smart-farm drawio (1)" src="https://github.com/user-attachments/assets/62477823-8b29-4465-a361-38a969ddf2e1" />
 
 
