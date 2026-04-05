@@ -1,8 +1,7 @@
 # Smart Farm System 🌱
 
 ## 📊 순서도
-<img width="221" height="821" alt="smart-farm drawio (1)" src="https://github.com/user-attachments/assets/62477823-8b29-4465-a361-38a969ddf2e1" />
-
+<img width="221" height="681" alt="제목 없는 다이어그램 drawio" src="https://github.com/user-attachments/assets/817966f5-009c-4e03-ba41-fe85de4dcd0a" />
 
 ## 📌 프로젝트 개요
 센서를 기반으로 작물의 **온도, 습도, 조도 환경**을 측정하고,  
